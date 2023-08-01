@@ -19,6 +19,9 @@ var_dump($cars);
 for ($i=0; $i<sizeof($cars); $i++){
   echo "<br> carro na posição".$i." ".$cars[$i];
 }
+echo"<br> ".strlen("Bruna Luiza Paixão");
+echo"<br>". 
+
 
 ?>
 
